@@ -1,5 +1,6 @@
 [
   "test_fizzBuzz.py::test_fizzbuzz", 
   "test_fizzBuzz.py::test_fizzbuzz_multiple_of3", 
-  "test_fizzBuzz.py::test_fizzbuzz_multiple_of5"
+  "test_fizzBuzz.py::test_fizzbuzz_multiple_of5", 
+  "test_fizzBuzz.py::test_fizzbuzz_multiple_of15"
 ]
