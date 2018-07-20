@@ -12,3 +12,5 @@ def test_fizzbuzz_multiple_of5():
 
 def test_fizzbuzz_multiple_of15():
     assert fizzbuzz(15) == "FizzBuzz"
+
+    
